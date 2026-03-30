@@ -30,7 +30,6 @@ To keep the workspace clean and focused, the content is split into two primary b
 2.  **Switch to your desired branch:**
     * For technical execution: `git checkout Runbooks`
     * For educational material: `git checkout Slide-Shows`
-3.  **Review the `README.md`** within each specific branch for localized instructions.
 
 ---
 
