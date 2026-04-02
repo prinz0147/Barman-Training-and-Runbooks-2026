@@ -25,7 +25,7 @@ To keep the workspace clean and focused, the content is split into two primary b
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/[your-organization]/Barman-Training-and-Runbooks-2026.git
+    git clone https://github.com/prinz0147/Barman-Training-and-Runbooks-2026.git
     ```
 2.  **Switch to your desired branch:**
     * For technical execution: `git checkout Runbooks`
