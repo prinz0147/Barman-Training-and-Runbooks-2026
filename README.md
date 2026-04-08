@@ -29,8 +29,11 @@ To keep the workspace clean and focused, the content is split into two primary b
     ```
 2.  **Switch to your desired branch:**
     * For technical execution: `git checkout Runbooks`
-    * For educational material: `git checkout Slide-Shows`
-
+    * For educational material: `git checkout Slide-Shows`. Please note that when you clone a repo, Git doesn't always automatically "see" every branch. You need to fetch the metadata from the server first.
+      ```
+      git fetch origin
+      git checkout Slide-Shows
+      ```
 ---
 
 ### 🛠 Key Topics Covered
