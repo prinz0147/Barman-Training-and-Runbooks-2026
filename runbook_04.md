@@ -124,7 +124,7 @@ rm -f id_rsa_tmp id_rsa_tmp.pub
 echo "---------------------------------------"
 echo "SSH Key Exchange Complete."
 echo "Testing connection from pgbkp1 to pgnode1..."
-docker exec -u barman pgbkp1 ssh postgres@pgnode1 "echo 'SSH connection successful!'"
+docker exec -u barman pgbkp1 ssh postgres@pgnode1 'echo "SSH connection successful!"'
 ```
 
 # Fix Compatibility Issues
